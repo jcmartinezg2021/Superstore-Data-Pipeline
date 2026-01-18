@@ -1,6 +1,11 @@
 # Superstore-Data-Pipeline
 This project demonstrates a data pipeline built for the interview assessment. It transforms raw retail data into an interactive executive dashboard using a modern data stack.
 
+
+### 🔗 [View Live Interactive Dashboard](https://superstore-data-pipeline-jrn8sxurtzyjmr4yh6umkp.streamlit.app/)
+
+Important: Use the link above to interact with the real-time data visualizations.
+
 Architecture & Tools
 
 -Data Warehouse: Snowflake (Storage and Compute)
