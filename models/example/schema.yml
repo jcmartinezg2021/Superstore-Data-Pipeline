@@ -19,10 +19,10 @@ models:
             tests:
                 - unique
                 - not_null
-                
-- name: mart_regional_performance
-    description: "Final reporting table showing Sales and Profit aggregated by Region and Category."
-    columns:
+
+    - name: mart_regional_performance
+      description: "Final reporting table showing Sales and Profit aggregated by Region and Category."
+      columns:
       - name: region
         description: "Geographic region of the superstore."
       - name: total_profit
